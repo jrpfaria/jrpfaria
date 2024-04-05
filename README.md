@@ -10,7 +10,7 @@ jrpfaria@github
 📚 I have a Bachelors in Computer Science from Universidade de Aveiro, Portugal
 📝 I have a strong interest in any type of low level programming
 🌟 Main languages: C, MIPS Assembly, Java, C++
-🚩 Trying to learn code golf
+🚩 Trying to learn about C code obfuscation
 🎵 Love every type of chill music
 ```
 <hr>
