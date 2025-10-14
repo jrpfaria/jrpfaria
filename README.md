@@ -7,7 +7,7 @@ Hi, I'm Rodrigo Faria!
 jrpfaria@github
 -------------------------
 💻 I am a student at Universidade de Aveiro, currently undergoing a Masters in Computer and Telematics Engineering
-📚 I have a Bachelors in Computer Science from Universidade de Aveiro, Portugal
+📚 I have a Bachelors and Masters in Computer Science from Universidade de Aveiro, Portugal
 📝 I have a strong interest in any type of low level programming
 🌟 Main languages: C, MIPS Assembly, Java, VHDL
 🚩 Trying to learn about C code obfuscation
