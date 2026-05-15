@@ -7,11 +7,11 @@ Hi, I'm Rodrigo Faria!
 jrpfaria@github
 -------------------------
 💻 I am working as a C firmware developer for OLT devices.
-📚 I have a Bachelors and Masters in Computer Science from Universidade de Aveiro, Portugal
+📚 I have a Masters in Computer Science from Universidade de Aveiro, Portugal
 📝 I have a strong interest in any type of low level programming
 🌟 Main languages: C, MIPS Assembly, Java, VHDL
-🚩 Trying to learn about C code obfuscation
-🎵 Love every type of chill music
+🚩 Keeping programming fun via code golf and obfuscation
+🛠️ Love building and benchmarking code just as much as pure hardware acceleration
 ```
 <hr>
 
