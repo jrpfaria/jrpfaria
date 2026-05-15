@@ -83,14 +83,11 @@ Supports configurable CNN/DNN architectures enabling rapid prototyping and repro
 
 #### 🧰 Stack
 
-**Languages**
-- C, C++, Java, Python, Bash, VHDL, MIPS Assembly
+- **Languages:** C, C++, Java, Python, Bash, VHDL, MIPS Assembly
 
-**Tools**
-- Git, CUDA, OpenMP
+- **Tools:** Git, CUDA, OpenMP
 
-**Platform**
-- Linux (CachyOS / Arch)
+- **Platform:** Linux (CachyOS / Arch)
 
 </td>
 
