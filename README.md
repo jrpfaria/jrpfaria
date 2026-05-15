@@ -84,16 +84,13 @@ Supports configurable CNN/DNN architectures enabling rapid prototyping and repro
 #### 🧰 Stack
 
 **Languages**
-- C, C++, Java, Python, Bash
-- VHDL, MIPS Assembly
+- C, C++, Java, Python, Bash, VHDL, MIPS Assembly
 
 **Tools**
 - Git, CUDA, OpenMP
-- Neovim, Copilot
 
 **Platform**
 - Linux (CachyOS / Arch)
-- Hyprland
 
 </td>
 
