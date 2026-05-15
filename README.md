@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Profile
+### 👨‍💻 Profile
 
 ```text
 jrpfaria@github
@@ -20,28 +20,28 @@ jrpfaria@github
 
 ---
 
-## 🧠 Research & Engineering Work
+### 🧠 Research & Engineering Work
 
-### 🎓 MSc Thesis — FPGA Code Generation for DNN Acceleration
+#### 🎓 MSc Thesis — HLS-Oriented Automatic Code Generation for FPGA Acceleration of Neural Networks
 
-**Focus:** HLS-Oriented Automatic Code Generation for FPGA Acceleration of Neural Networks.
+**Focus:** Automatic HLS-based code generation for deploying neural networks on FPGAs at the edge.
 
 * Designed a C-based code generation framework using HLS (High-Level Synthesis)
 * Bridges high-level DNN descriptions → synthesizable FPGA implementations
 * Evaluates RTL quality, latency, and resource utilization across architectures
 * Compares HLS toolchains and optimization strategies for FPGA deployment flows
 * Validated through FPGA inference experiments for real-time edge execution
+* 🧩 Open-source implementation: https://github.com/jrpfaria/DNN2VHLS
 
 ---
 
-### 📄 Publications
+#### 📄 Publications
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[1] FPGA Acceleration of CNNs at the Edge: A Comparative Study on HLS Frameworks**
-[https://ieeexplore.ieee.org/document/11231201](https://ieeexplore.ieee.org/document/11231201)
+**[1] [FPGA Acceleration of CNNs at the Edge: A Comparative Study on HLS Frameworks](https://ieeexplore.ieee.org/document/11231201)**
 
 **Summary:**
 Compares HDL Coder vs Vitis HLS for FPGA CNN deployment.
@@ -51,8 +51,8 @@ Highlights trade-offs between deterministic RTL mapping and flexible resource-ef
 
 <td width="50%" valign="top">
 
-**[2] Using Automatic Code Generation for Real-Time FPGA Deployment of DNNs at the Edge**
-[https://ieeexplore.ieee.org/document/11270598](https://ieeexplore.ieee.org/document/11270598)
+**[2] [Using Automatic Code Generation for Real-Time FPGA Deployment of DNNs at the Edge](https://ieeexplore.ieee.org/document/11270598)**
+
 
 **Summary:**
 Presents an automatic HLS code generator for DNN deployment on FPGA.
@@ -69,41 +69,43 @@ Supports configurable CNN/DNN architectures enabling rapid prototyping and repro
 
 <td width="33%" valign="top">
 
-### ⚙️ Focus
+#### ⚙️ Focus
 
-- HLS (High-Level Synthesis)
+- High-Level Synthesis (HLS)
 - FPGA RTL optimization
 - Embedded AI / edge inference
-- Compiler-aware codegen
-- Performance modeling
+- Compiler-aware code generation
+- Performance modeling & benchmarking
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🚩 Interests
+#### 🧰 Stack
+
+**Languages**
+- C, C++, Java, Python, Bash
+- VHDL, MIPS Assembly
+
+**Tools**
+- Git, CUDA, OpenMP
+- Neovim, Copilot
+
+**Platform**
+- Linux (CachyOS / Arch)
+- Hyprland
+
+</td>
+
+<td width="33%" valign="top">
+
+#### 🚩 Interests
 
 - Embedded firmware systems
 - Hardware-aware optimization
 - Assembly & low-level reasoning
 - Micro-optimizations
 - Compiler internals
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧰 Stack
-
-**Languages**
-- C, C++, Java, Python
-- MIPS (learning Rust/Zig)
-
-**Tools**
-- Neovim, Git, Copilot
-
-**Platform**
-- CachyOS (Arch), Hyprland
 
 </td>
 
