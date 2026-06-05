@@ -41,7 +41,7 @@ jrpfaria@github
 <tr>
 <td width="50%" valign="top">
 
-**[1] [FPGA Acceleration of CNNs at the Edge: A Comparative Study on HLS Frameworks](https://ieeexplore.ieee.org/document/11231201)**
+**[1] [FPGA Acceleration of CNNs at the Edge: A Comparative Study on HLS Frameworks]([https://ieeexplore.ieee.org/document/11231201](https://doi.org/10.1109/NorCAS66540.2025.11231201))**
 
 **Summary:**
 Compares HDL Coder vs Vitis HLS for FPGA CNN deployment.
@@ -51,7 +51,7 @@ Highlights trade-offs between deterministic RTL mapping and flexible resource-ef
 
 <td width="50%" valign="top">
 
-**[2] [Using Automatic Code Generation for Real-Time FPGA Deployment of DNNs at the Edge](https://ieeexplore.ieee.org/document/11270598)**
+**[2] [Using Automatic Code Generation for Real-Time FPGA Deployment of DNNs at the Edge]([https://ieeexplore.ieee.org/document/11270598](https://doi.org/10.1109/ICECS66544.2025.11270598))**
 
 
 **Summary:**
